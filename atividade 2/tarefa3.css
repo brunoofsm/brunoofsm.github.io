@@ -1,0 +1,33 @@
+#logo {
+    display: inline;
+    float: left;
+}
+
+#titulo {
+    display: block;
+    text-align: center;
+}
+
+header {
+    border: 3px solid black;
+    padding-bottom: 15px;
+}
+
+.container {
+    padding: 10px;
+}
+
+nav {
+    height: 500px;
+    background-color: #66FFB2;
+    padding: 10px;
+    font-size: 30px;
+    border-right: 3px solid black;
+}
+
+section {
+    text-align: left;
+    height: 500px;
+    background-color: #CCFFE5;
+    font-size: 25px;
+}
